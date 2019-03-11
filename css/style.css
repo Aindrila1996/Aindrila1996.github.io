@@ -102,8 +102,8 @@ span.menu {
   margin-right: 13em;
 }
 .header{
+	background: url(../images/edit.jpg) no-repeat 0px -127px;
 	
-	background: url(../images/dance.jpg) no-repeat 0px -127px;
   background-size: cover;
   min-height: 650px;
 }
@@ -113,7 +113,7 @@ span.menu {
 	  margin: 13em 0 0 0em; 
 }
 .banner-info h2{
-	color:black;
+	color:#fff;
 	font-size:3.5em;
 	font-family: 'Dosis-Medium';
 }
@@ -242,6 +242,7 @@ label{
 .about-left{
 	float: left;
   width: 22%;
+  background: url(https://github.com/akshatbhalotia/akshatbhalotia.github.io/images/IMG_0661.PNG) no-repeat 0px -80px;
   min-height: 350px;
   background-size: cover;
 }
