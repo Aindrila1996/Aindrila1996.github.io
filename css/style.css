@@ -103,7 +103,7 @@ span.menu {
 }
 .header{
 	
-	background:url(edit.JPG);
+	background: url(../images/edit.jpg) no-repeat 0px -127px;
   background-size: cover;
   min-height: 650px;
 }
