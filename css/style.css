@@ -11,15 +11,11 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-h1,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6{
 	padding:0 0;
 	margin:0 0;
 }
-h2{
-  padding:0 0;
-	margin:0 0;
-	color:black; 	
-  }
+
 p{
 	padding:0 0;
 	margin:0 0;
@@ -242,7 +238,6 @@ label{
 .about-left{
 	float: left;
   width: 22%;
-  background: url(https://github.com/akshatbhalotia/akshatbhalotia.github.io/images/IMG_0661.PNG) no-repeat 0px -80px;
   min-height: 350px;
   background-size: cover;
 }
