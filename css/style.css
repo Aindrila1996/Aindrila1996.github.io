@@ -11,10 +11,15 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-h1,h2,h3,h4,h5,h6{
+h1,h3,h4,h5,h6{
 	padding:0 0;
 	margin:0 0;
 }
+h2{
+  padding:0 0;
+	margin:0 0;
+	color:black; 	
+  }
 p{
 	padding:0 0;
 	margin:0 0;
